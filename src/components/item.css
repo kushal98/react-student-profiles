@@ -11,7 +11,7 @@
 .item {
     display: inline-block;
     width: 30%;
-    min-width: 200px;
+    min-width: 300px;
     border-style: solid;
     border-color: grey;
     border-width: 1px;
